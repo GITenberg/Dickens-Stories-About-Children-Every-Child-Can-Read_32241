@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33676
     wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32241#Dickens-Stories-About-Children-Every-Child-Can-Read
 gutenberg_issued: '2010-05-03'
 gutenberg_type: Text
 identifiers:
