@@ -1,0 +1,48 @@
+_repo: Dickens-Stories-About-Children-Every-Child-Can-Read_32241
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32241-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  editor:
+    agent_name: Hurlbut, Jesse Lyman
+    aliases:
+    - Hurlbut, J. L. (Jesse Lyman)
+    - Hurlbott, Jesse Lyman
+    birthdate: 1843
+    deathdate: 1930
+    gutenberg_agent_id: '33676'
+    url: http://www.gutenberg.org/2009/agents/33676
+    wikipedia: http://en.wikipedia.org/wiki/Jesse_Lyman_Hurlbut
+description: ''
+gutenberg_issued: '2010-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32241'
+  lccn: unk82001432
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Children''s stories, English'
+tableOfContents: Trotty Veck and his daughter Meg -- Tiny Tim -- The runaway couple
+  -- Little Dorrit -- The toy-maker and his blind daughter -- Little Nell -- Little
+  David Copperfield -- Jenny Wren -- Pip's adventure -- Todgers' -- Dick Swiveller
+  and the Marchioness -- Mr. Wardle's servant Joe -- A brave and honest boy, Oliver
+  Twist.
+title: Dickens' Stories About Children Every Child Can Read
+url: http://www.gutenberg.org/ebooks/32241
